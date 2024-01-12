@@ -1,8 +1,13 @@
 # Random-Projects
 
+ Table of Contents
+ 
+- [Hangman Game](#hangman_game)
+- [Snake Game](#snake_game)
 
+---
 
-### Hangman Game
+Hangman Game
 ---
 
 ```python
