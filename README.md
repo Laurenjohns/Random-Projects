@@ -37,6 +37,10 @@ if done:
 else:
     print(f"Game over!")
 ```
+
+<img width="351" alt="Screenshot 2024-01-11 180131" src="https://github.com/Laurenjohns/Random-Projects/assets/107310914/d9c5e263-51df-401f-be43-31e5e401e832">
+
+
 ---
 
 ### Snake Game
